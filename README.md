@@ -4,4 +4,4 @@ hello-world
 Silly files to start learning this
 
 
-This is a simple repository for placing sample code which performs basic tasks. Basically, I just need to learn the coding world. 
+I am a graduate student in mechanical engineering. I plan on using github to load up 3-D designs, sample code, and other work that I have been doing both related and unrelated to my research. 
